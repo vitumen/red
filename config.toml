@@ -1,6 +1,6 @@
 baseURL = "https://vitumen.github.io/red/"
 languageCode = "en-us"
-title = "Hugo Winston"
+title = "Red"
 themesDir = "themes"
 theme = "hugo-winston-theme"
 publishDir = 'docs'
