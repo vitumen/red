@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Hugo Winston"
 themesDir = "themes"
 theme = "hugo-winston-theme"
+publishDir = 'docs'
 
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
