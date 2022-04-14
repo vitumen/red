@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hugo Winston</title>
-    <link>vitumen.github.io/tags/</link>
+    <link>vitumen.github.io/red/docs/tags/</link>
     <description>Recent content in Tags on Hugo Winston</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="vitumen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="vitumen.github.io/red/docs/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
