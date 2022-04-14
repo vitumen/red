@@ -1,4 +1,4 @@
-baseURL = "vitumen.github.io/red"
+baseURL = "vitumen.github.io"
 languageCode = "en-us"
 title = "Hugo Winston"
 themesDir = "themes"
