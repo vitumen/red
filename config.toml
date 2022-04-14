@@ -4,6 +4,7 @@ title = "Hugo Winston"
 themesDir = "themes"
 theme = "hugo-winston-theme"
 publishDir = 'docs'
+canonifyURLs = true
 
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
