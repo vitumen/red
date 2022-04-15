@@ -2,13 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vitumen.github.io/red/posts/language-perfect/</loc>
-    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
+    <loc>https://vitumen.github.io/red/posts/</loc>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vitumen.github.io/red/</loc>
-    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vitumen.github.io/red/posts/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vitumen.github.io/red/posts/sanity-not-statistical/</loc>
@@ -17,9 +14,9 @@
     <loc>https://vitumen.github.io/red/posts/destruction-of-words/</loc>
     <lastmod>2018-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vitumen.github.io/red/pages/about/</loc>
-  </url><url>
     <loc>https://vitumen.github.io/red/categories/</loc>
+  </url><url>
+    <loc>https://vitumen.github.io/red/pages/about/</loc>
   </url><url>
     <loc>https://vitumen.github.io/red/pages/</loc>
   </url><url>

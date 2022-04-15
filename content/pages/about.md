@@ -1,49 +1,17 @@
 ---
-title: 'About'
+title: 'Gran Timonel'
 image: images/writer.jpeg
 menu:
   main:
-    name: "About"
+    name: "Acerca"
 ---
 
-## Contra vagos
+## (1893 – 1976)
 
-Lorem _markdownum notam si_ lintea meque certa [en meumque
-illis](#cohibentem-iuvenaliter), diu fatigant, nec praedae concustodita arcet.
-[Paviunt castris](#nemorisque-urimur-violentus) cur errat ventis causa! Silvas
-sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum
-utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.
+Hijo de un campesino, **_Mao Zedong_** nació en el pueblo de Shao Shan, provincia de Hunan, China. A los 27 años, Mao asistió al Primer Congreso del **_Partido Comunista de China_** en Shanghai, en julio de 1921. Dos años más tarde fue elegido miembro del Comité Central del Partido en el Tercer Congreso.
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+De 1931 a 1934, Mao ayudó a establecer la **_República Soviética de China_** en el sureste del país y fue elegido presidente.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+En el contexto de la guerra civil, a partir de octubre de 1934 comenzó la **_Larga Marcha_**, una retirada desde el sureste hasta el noroeste. En 1937, Japón abrió una guerra de agresión total contra China, lo que dio motivo al Partido Comunista para unirse a las fuerzas nacionalistas del Kuomintang. Después de derrotar a los japoneses, en la reanudación de la guerra civil, los comunistas derrotaron al Kuomintang y establecieron la **_República Popular de China_** en octubre de 1949.
 
-## Ducem oculos pallor tale quoque
-
-Pectora de Hebe veste mansit nemorisque oppugnare deos, interea eo calescit
-**invita insidiae** Amymonen, semper respiciens vocato, illis! Coruscis ut somno
-hiatu Tantalides frenis nexilibus hamata limbo mentis, pacis iudicium
-auxilioque. Genus dolori, me ira hae inpediunt tellus, nascendi Boreas!
-Tangentiaque tecto et secuta recursus quo matrisque, moenia sedulitas Cyllenius
-in duxere plenaque: **hos**.
-
-1. Olim pulvere
-2. Verus ego ovantem mihi
-3. Tenuit erat semina superari
-4. Dabis natis hoc genu in quidem dumque
-
-Per tenuata [potiora](#inmeritae-discordemque-iterum) dedit caelo admota
-iniustus decipere do loca multa non parat. Ingratos his ut inde credite sensit
-sorte. Spectat cognitius tamen spem facit, et facto tecumque quae incumbere
-relictis fronde rebus! Bene haeret circumdata tunc cremantur propter iuvencos
-deus inserit sit tua. Pompa non precor procumbit inania lacrimas sacra credetis:
-Oceano, femina?
-
-Bacchantum neque. Humum ut violasse quam inmotos! Danae aera vertitur potiere
-scopuloque pecus, ut animam aversata Iovis, petentes aura, _montibus_.
+Mao sirvió como Presidente de la República Popular hasta 1959, y como Secretario General del Partido Comunista de China hasta su muerte, en 1979.
