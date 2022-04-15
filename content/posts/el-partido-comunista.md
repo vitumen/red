@@ -1,8 +1,9 @@
 ---
 title: El Partido Comunista
-date: 2022-11-01
+date: 2018-11-28
 description: 'La fuerza-núcleo que dirige nuestra causa es el Partido Comunista de China. La base teórica que guía nuestro pensamiento es el marxismo-leninismo.'
 image: images/cpc.jpeg
+draft: false
 ---
 
 ## ¡Fuerzas revolucionarias del mundo, uníos, luchad contra la agresion imperialista!
