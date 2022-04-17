@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://red.vitu.men/posts/el-partido-comunista/</loc>
-    <lastmod>2022-04-15T00:00:00+00:00</lastmod>
+    <loc>https://red.vitu.men/posts/citas-escogidas/</loc>
+    <lastmod>2022-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://red.vitu.men/</loc>
+    <lastmod>2022-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://red.vitu.men/posts/el-partido-comunista/</loc>
     <lastmod>2022-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://red.vitu.men/posts/</loc>
@@ -13,9 +16,6 @@
   </url><url>
     <loc>https://red.vitu.men/posts/sanity-not-statistical/</loc>
     <lastmod>2018-12-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://red.vitu.men/posts/destruction-of-words/</loc>
-    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://red.vitu.men/categories/</loc>
   </url><url>

@@ -5,6 +5,18 @@ description: 'Once again he glanced at his rival in the opposite cubicle. Someth
 image: images/cctv2.jpeg
 ---
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uZV3hvz4IXQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=uZV3hvz4IXQ)
+
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/embed/UmX4kyB2wfg"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
 ## There was no way of knowing whose version would finally be adopted
 
 Once again he glanced at his rival in the opposite cubicle. Something seemed to tell him with certainty that Tillotson was busy on the same job as himself. There was no way of knowing whose version would finally be adopted, but he felt a profound conviction that it would be his own
